@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Para alinear el contenido más arriba */
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    color: #40E0D0; /* Azul turquesa */
+    font-size: 3rem; /* Aumenta el tamaño del título */
+    margin-top: 20px; /* Espacio para situar el título más arriba */
+    font-weight: bold;
+}
+
+.container {
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+}
