@@ -1,0 +1,18 @@
+\begin{theindex}
+
+  \item {API\_URL}
+    \subitem {conexion.js}, \hyperpage{3}
+
+  \indexspace
+
+  \item {conexion.js}
+    \subitem {API\_URL}, \hyperpage{3}
+    \subitem {setInterval}, \hyperpage{3}
+
+  \indexspace
+
+  \item {setInterval}
+    \subitem {conexion.js}, \hyperpage{3}
+  \item {src/app/js/conexion.js}, \hyperpage{3}
+
+\end{theindex}

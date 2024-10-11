@@ -1,0 +1,11 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Índice de archivos}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Lista de archivos}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Documentación de archivos}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Referencia del archivo src/app/js/conexion.js}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Documentación de funciones}{3}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.1.1}setInterval()}{3}{subsubsection.2.1.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Documentación de variables}{3}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.2.1}API\_URL}{3}{subsubsection.2.1.2.1}%
+\contentsline {chapter}{\'{I}ndice alfab\'{e}tico}{5}{section*.3}%
